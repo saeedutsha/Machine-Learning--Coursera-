@@ -4,4 +4,4 @@ Please try to solve all the assignments by yourself first, but if you get stuck 
 # Reference
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 # Certificate
-[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/RD5BFZN4HVZX)
+[• Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/RD5BFZN4HVZX)
